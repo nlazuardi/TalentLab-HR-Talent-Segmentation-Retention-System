@@ -1,0 +1,12 @@
+Kolom,Deskripsi
+EmployeeID,ID unik setiap karyawan
+Age,Usia karyawan
+Department,"Departemen tempat karyawan bekerja (HR, Finance, Engineering, Sales, Marketing, Operations)"
+Gender,Jenis kelamin (Male/Female)
+Education,"Tingkat pendidikan (High School, Bachelor, Master, PhD)"
+YearsAtCompany,Lama bekerja di perusahaan (dalam tahun)
+PerformanceScore,Skor performa (1–5)
+MonthlyIncome,Pendapatan bulanan
+JobSatisfaction,Skor kepuasan kerja (1–5)
+TrainingHours,Total jam pelatihan per tahun
+CompetencyScore,"Avg. Skor kompetensi dari Technical, Leadership, Communication, Problem Solving, Teamwork, Adaptability (1–5)"
